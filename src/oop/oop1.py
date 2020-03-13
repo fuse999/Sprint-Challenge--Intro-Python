@@ -20,7 +20,7 @@
 
 class Vehicle: # No Base Class
     def __init__(self, name):
-        self.name = namm
+        self.name = name
 
 
 class GroundVehicle(Vehicle): # Base is Vehicle
